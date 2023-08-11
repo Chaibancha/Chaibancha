@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🌱 I'm currently learning about software programer in Thammasat University
+- 🌱 I'm currently learning about software engineer in Thammasat University
 - 🤔 I'm looking for help with my portfolio
 - 📫 How to reach me: chaibancha.ran@dome.tu.ac.th
 - 😄 Pronouns: "เสือ" is meaning tiger.
+
+  Thanks for visiting!💪👁👄👁
 <!--
 **Chaibancha/Chaibancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
