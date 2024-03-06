@@ -2,7 +2,7 @@
 - 🌱 I'm currently learning about software engineer in Thammasat University
 - 🤔 I'm looking for help with my portfolio
 - 📫 How to reach me: chaibancha.ran@dome.tu.ac.th
-- 😄 Pronouns: "เสือ" is meaning tiger.
+- 😄 Pronouns: Two tigers cannot live in the same cave. But 11 tigers can be in the same bottle
 
   Thanks for visiting!💪👁👄👁
 <!--
