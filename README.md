@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🌱 I'm currently learning about software engineer in Thammasat University
+- 🌱 I'm currently learning about software engineering in Thammasat University
 - 🤔 I'm looking for help with my portfolio
 - 📫 How to reach me: chaibancha.ran@dome.tu.ac.th
 - 😄 Pronouns: Two tigers cannot live in the same cave. But 11 tigers can be in the same bottle
 
-  Thanks for visiting!💪👁👄👁
+  Thanks for visiting!💪
 <!--
-**Chaibancha/Chaibancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Chaibancha/Chaibancha** is a ✨ _unique_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
