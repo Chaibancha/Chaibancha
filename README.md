@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I'm currently learning about software engineering in Thammasat University
+- 🌱 I'm currently working on software engineering at .....
 - 🤔 I'm looking for help with my portfolio
-- 📫 How to reach me: chaibancha.ran@dome.tu.ac.th
+- 📫 How to reach me: sk.chaibancha.rk@gmail.com
 - 😄 Pronouns: Two tigers cannot live in the same cave. But 11 tigers can be in the same bottle
 
   Thanks for visiting!💪
